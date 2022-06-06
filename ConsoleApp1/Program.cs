@@ -23,7 +23,7 @@ namespace ConsoleApp1
         }
     }
 
-    //
+    //123
 
     class Parent
     {
@@ -34,7 +34,7 @@ namespace ConsoleApp1
             get { return message; }
             set { message = value; }
         }
-
+       
         public void ShowMessage()
         {
             Console.WriteLine(message);
