@@ -23,7 +23,7 @@ namespace ConsoleApp1
         }
     }
 
-    //123
+    //
 
     class Parent
     {
